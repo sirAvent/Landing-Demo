@@ -1,5 +1,5 @@
-# Landing-Template
-Landing Page Template in HTML, CSS, and JS
+# A demo/template for future projects
+Created in HTML, CSS, and JS
 
 ## Full Preview
-https://siravent.github.io/Landing-Template/
+https://siravent.github.io/Landing-Demo/
